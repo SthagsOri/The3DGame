@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b7ml7pile0q83"
+path.s3tc="res://.godot/imported/basement_WoodFloor041_1K-JPG_NormalGL.jpg-004988955ab484fe8620ca819ce4276f.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "5b5a54279ca5473e406f928fb7c2597e"
+}
+
+[deps]
+
+source_file="res://Assets/BasementBolcks/basement_WoodFloor041_1K-JPG_NormalGL.jpg"
+dest_files=["res://.godot/imported/basement_WoodFloor041_1K-JPG_NormalGL.jpg-004988955ab484fe8620ca819ce4276f.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

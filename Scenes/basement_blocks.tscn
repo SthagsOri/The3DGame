@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjjnup35d54oj"]
+
+[ext_resource type="PackedScene" uid="uid://yh5phhs5lpcm" path="res://Assets/BasementBolcks/basement.blocks.glb" id="1_txp5n"]
+
+[node name="basement_blocks" instance=ExtResource("1_txp5n")]
